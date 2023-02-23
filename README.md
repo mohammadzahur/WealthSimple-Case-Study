@@ -35,6 +35,7 @@ According to WealthSimple's engineering blog and job postings, the company uses 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+Wealthsimple is a financial technology (fintech) company that operates in the domain of investment management. Specifically, Wealthsimple offers online investment management services, including automated investing, robo-advisory services, and financial planning tools to help individuals manage and grow their wealth. Wealthsimple's platform allows customers to invest in a variety of financial instruments, including stocks, bonds, exchange-traded funds (ETFs), and more, all of which are managed by the company's proprietary algorithms and portfolio management strategies.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
